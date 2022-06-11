@@ -89,5 +89,3 @@ router.delete('/:id', (req, res) => {
 });
 
 module.exports = router;
-
-// 13.1.6 HOOK UP THE SERVER && TEST THEM is the next step //
